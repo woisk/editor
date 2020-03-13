@@ -1,0 +1,15 @@
+.ce-code__textarea {
+  min-height: 200px;
+  font-family: Menlo, Monaco, Consolas, Courier New, monospace;
+  color: #333333;
+  line-height: 1.6em;
+  font-size: 12px;
+  background: #eef3fc;
+  border: 1px solid #f1f1f4;
+  box-shadow: none;
+  white-space: pre;
+  word-wrap: normal;
+  overflow-x: auto;
+  resize: vertical;
+}
+
